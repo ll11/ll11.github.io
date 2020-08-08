@@ -1,0 +1,19 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Studies
+    output: web
+    folderitems:
+    - title: Studies
+      url: /studies.html
+      output: web
+    - title: In Chronological Order
+      url: /studies_chrono.html
+      output: web
+    - title: References
+      url: /mydoc_references.html
+      output: web
