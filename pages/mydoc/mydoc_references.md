@@ -17,7 +17,9 @@ folder: mydoc
 5. [HCQ Prophylactic and Early Treatment for COVID](https://docs.google.com/document/d/1vDD8JkHe62hmpkalx1tejkd_zDnVwJ9XXRjgXAc1qUc/edit) 
    [download](/images/HCQ Prophylactic and Early Treatment for COVID.docx)
 6. [hcq deep dive](https://twitter.com/gummibear737/status/1283840177497088001)
-6. [NIH guidelines](https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/chloroquine-or-hydroxychloroquine/)
+7. [NIH guidelines](https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/chloroquine-or-hydroxychloroquine/)
+8. [Our World in Data - Covid-19](https://ourworldindata.org/coronavirus-data-explorer)
+
 
 
 Features | Supported | Notes
