@@ -13,6 +13,8 @@ topnav:
       url: /theanswer.html
     - title: Why
       url: /why.html
+    - title: Contribute
+      url: /contribute.html
 
 #Topnav dropdowns
 #topnav_dropdowns:
