@@ -5,14 +5,14 @@ topnav:
   items:
     - title: Home
       url: /index.html
-    - title: Studies
-      url: /studies.html
-    - title: Medias
-      url: /medias.html
     - title: The Answer
       url: /theanswer.html
     - title: Why
       url: /why.html
+    - title: Studies
+      url: /studies.html
+    - title: Medias
+      url: /medias.html
     - title: Contribute
       url: /contribute.html
 

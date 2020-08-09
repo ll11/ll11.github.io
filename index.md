@@ -106,21 +106,14 @@ The video was soon taken down by both Facebook and Youtube.  Tweets promoting th
 
 [The author](https://twitter.com/CovidAnalysis) of [c19study.com](https://c19study.com/) came up with a great idea that many countries either adopted or declined early treatment with HCQ, thus forming [a large country-randomized controlled trial](https://hcqtrial.com/).  The trial is of course ongoing, but the result so far shows countries using HCQ have 79.1% lower death per million than those not using.
 
-![hcqtrial01](/images/plot1ax.png){: style="width:500px"}  (from [hcqtrial.com](https://hcqtrial.com))
+![hcqtrial01](/images/plot1ax.png){: style="width:600px"}  (from [hcqtrial.com](https://hcqtrial.com), go there for updated result)
 
-At some point, you have to stop updating the timeline, and that is here.
+At some point, I have to stop updating the timeline, and that is here.
 
-[Here is my answer](/theanswer.html) to the question "Does HCQ Works?"
+I am confident I have found  [my answer](/theanswer.html) to the question "Does HCQ Works?"
 
 [Here](/why.html) is my reasoning.
 
-Check out [studies](/studies.html), do the research, and find out your own answer.
+Check out [the studies](/studies.html), do the research, and find out your own answer.
 
-This website lives on [github.com/ll11/ll11.github.io](https://github.com/ll11/ll11.github.io).  See [Contribute](/contribute.html) for how to contribute to this site.
 
-At this point, almost anyone who despice Trump also was against hydroxychloroquine. Those who love him also believe in HCQ.  No one read study papers.  No one listen to reasoning. People only seek information that re-enforce their confirmation bias, which further cement their biased belief. 
-{% include links.html %}
-
-```
-
-```
