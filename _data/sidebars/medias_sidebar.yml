@@ -5,15 +5,12 @@ entries:
   levels: one
   folders:
 
-  - title: Studies
+  - title: Medias
     output: web
     folderitems:
-    - title: Studies
-      url: /studies.html
+    - title: Medias
+      url: /medias.html
       output: web
     - title: In Chronological Order
       url: /studies_chrono.html
-      output: web
-    - title: References
-      url: /references.html
       output: web

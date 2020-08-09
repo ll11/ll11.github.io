@@ -10,9 +10,9 @@ summary: This site catelogs research, news articles, and other useful informatio
 
 {% include note.html content="The information here will help you answer the question: Does HCQ work?. If you just need a quick answer, see [The Answer](/theanswer.html).  But please, if you have Covid-19, do your own research and talk to your doctor." %}
 
-**For HCQ covid-19 research, see [studies][studies]**
+**For HCQ covid-19 research, see [studies](/studies.html)**
 
-**For non-research media coverages , see [medias][medias]**
+**For non-research media coverages , see [medias](/medias.html)**
 
 ## What We Know So Far
 
