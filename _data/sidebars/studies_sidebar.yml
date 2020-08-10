@@ -17,3 +17,6 @@ entries:
     - title: References
       url: /references.html
       output: web
+    - title: Archive Form
+      url: /news_archive.html
+      output: web
