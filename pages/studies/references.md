@@ -1,12 +1,9 @@
 ---
 title: References
-tags:
-  - getting_started
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "July 16, 2016"
-published: true
-sidebar: mydoc_sidebar
+sidebar: studies_sidebar
 permalink: references.html
+folder: studies
 ---
 
 1. [c19study.com](https://c19study.com/) and [hcqtrial.com](https://hcqtrial.com/)
