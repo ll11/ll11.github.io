@@ -1,7 +1,6 @@
 ---
 title: "Does HCQ Work?"
 keywords: sample homepage
-tags: [getting_started]
 hide_sidebar: true
 permalink: index.html
 toc: false
