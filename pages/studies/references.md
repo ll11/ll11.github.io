@@ -16,4 +16,5 @@ folder: studies
 7. [NIH guidelines](https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/chloroquine-or-hydroxychloroquine/)
 8. [Our World in Data - Covid-19](https://ourworldindata.org/coronavirus-data-explorer)
 8. [wikipedia](https://en.wikipedia.org/wiki/Hydroxychloroquine)
+10. [Rethinking role of HCQ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7267640/)
 
