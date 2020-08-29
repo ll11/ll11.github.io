@@ -15,6 +15,8 @@ folder: studies
 6. [hcq deep dive](https://twitter.com/gummibear737/status/1283840177497088001)
 7. [NIH guidelines](https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/chloroquine-or-hydroxychloroquine/)
 8. [Our World in Data - Covid-19](https://ourworldindata.org/coronavirus-data-explorer)
-8. [wikipedia](https://en.wikipedia.org/wiki/Hydroxychloroquine)
+9. [wikipedia](https://en.wikipedia.org/wiki/Hydroxychloroquine)
 10. [Rethinking role of HCQ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7267640/)
-
+11. [hcq trials](https://drugsheet.com/?intervention=Hydroxychloroquine)
+12. [Open letter to Fauci](https://www.thedesertreview.com/opinion/columnists/open-letter-to-dr-anthony-fauci-regarding-the-use-of-hydroxychloroquine-for-treating-covid-19/article_31d37842-dd8f-11ea-80b5-bf80983bc072.html)
+13. (In Chinese) [doc on hcq - yt1](https://www.youtube.com/watch?v=WTA_o8UJGEA), [doc on hcq - yt2](https://www.youtube.com/watch?v=ginuNMMqH6I) [doc on hcq - yt3](https://www.youtube.com/watch?v=1x_11I5SLII)
