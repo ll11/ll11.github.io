@@ -12,4 +12,3 @@ tags: [positive]
 
 Risk stratification-based treatment of COVID-19 outpatients as early as possible after symptom onset with the used triple therapy, including the combination of zinc with low dose hydroxychloroquine, was associated with significantly less hospitalizations and 5 times less all-cause deaths.
 
-{% include links.html %}
