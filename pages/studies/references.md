@@ -20,3 +20,4 @@ folder: studies
 11. [hcq trials](https://drugsheet.com/?intervention=Hydroxychloroquine)
 12. [Open letter to Fauci](https://www.thedesertreview.com/opinion/columnists/open-letter-to-dr-anthony-fauci-regarding-the-use-of-hydroxychloroquine-for-treating-covid-19/article_31d37842-dd8f-11ea-80b5-bf80983bc072.html)
 13. (In Chinese) [doc on hcq - yt1](https://www.youtube.com/watch?v=WTA_o8UJGEA), [doc on hcq - yt2](https://www.youtube.com/watch?v=ginuNMMqH6I) [doc on hcq - yt3](https://www.youtube.com/watch?v=1x_11I5SLII)
+14. [Coronavirus (COVID-19) Daily Research Briefs](https://www.aafp.org/journals/afp/content/covid-briefs.html) (this site mostly reports only negative studies)
