@@ -5,10 +5,10 @@ topnav:
   items:
     - title: Home
       url: /index.html
-    - title: The Answer
-      url: /theanswer.html
     - title: Why
       url: /why.html
+    - title: Timeline
+      url: /timeline.html
     - title: Studies
       url: /studies.html
     - title: Medias
