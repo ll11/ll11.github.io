@@ -3,10 +3,9 @@ title: "Covid-19 HCQ Timeline"
 hide_sidebar: true
 permalink: timeline.html
 toc: false
-summary: This site catelogs research, news articles, and other useful information (and misinformation) on the effectivness of using Hydroxychloroquine (HCQ) to treat Covid-19.
 ---
 
-{% include note.html content="The information here will help you answer the question: Does HCQ work?. If you just need a quick answer, see [The Answer](/theanswer.html).  But please, if you have Covid-19, do your own research and talk to your doctor." %}
+{% include note.html content="The information here will help you answer the question: Does HCQ work? But if you have Covid-19, do your own research and talk to your doctor." %}
 
 **For HCQ covid-19 research, see [studies](/studies.html)**
 
@@ -106,7 +105,7 @@ The video was soon taken down by both Facebook and YouTube.  Tweets promoting th
 
 At some point, I have to stop updating the timeline, and that is here.
 
-I am confident I have found  [my answer](/theanswer.html) to the question "Does HCQ Works?"
+I am confident I have found to the question "Does HCQ Works?"
 
 [Here](/why.html) is my reasoning.
 
